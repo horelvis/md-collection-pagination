@@ -1,0 +1,23 @@
+{
+  "name": "md-collection-pagination",
+  "description": "Angular Material Design component for paginating a collection.",
+  "main": "dist/md-collection-pagination.js",
+  "authors": [
+    "Jonatan Kłosko",
+    "Horelvis Castillo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular-material",
+    "pagination"
+  ],
+  "homepage": "https://github.com/horelvis/md-collection-pagination",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

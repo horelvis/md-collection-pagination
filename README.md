@@ -9,7 +9,9 @@ See it in action [here](http://codepen.io/jonatanklosko/full/qRJMeq).
 
 ```bash
 npm install --save md-collection-pagination
+bower install --save md-collection-pagination
 ```
+
 
 ## Setup
 
